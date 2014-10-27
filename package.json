@@ -13,7 +13,7 @@
   },
   "keywords": [
     "sql",
-    "formater"
+    "formatter"
   ],
   "author": {
     "name": "Borealis"
@@ -23,8 +23,6 @@
     "mocha": "2.0.x",
     "expect.js": "0.3.x"
   },
-  "dependencies": {
-  },
-  "readme": "ERROR: No README data found!",
+  "dependencies": {},
   "readmeFilename": "README.md"
 }
